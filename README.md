@@ -1,4 +1,4 @@
-# kormim76.github.lo
+# kormim76.github.io
 
 fdc_3rd
 
